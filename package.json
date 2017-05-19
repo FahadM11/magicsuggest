@@ -1,0 +1,33 @@
+{
+  "name": "magicsuggest-alpine",
+  "version": "1.0.0",
+  "description": "magicsuggest - updated for use with jquery v3.2.1",
+  "main": "magicsuggest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahadM11/magicsuggest.git"
+  },
+  "keywords": [
+    "magicsuggest",
+    "magicsuggestnpm"
+  ],
+  "author": "Nicolas Bize",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahadM11/magicsuggest/issues"
+  },
+  "homepage": "https://github.com/FahadM11/magicsuggest#readme",
+  "dependencies": {
+    "bootstrap": "~3",
+    "jquery": ">= 3.2.1"
+  },
+  "maintainers": [
+    {
+      "email": "fahad_masood91@hotmail.com",
+      "name": "FahadM11"
+    }
+  ]
+}
